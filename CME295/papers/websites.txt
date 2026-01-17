@@ -1,0 +1,2 @@
+https://research.trychroma.com/context-rot
+https://thinkingmachines.ai/blog/lora/
